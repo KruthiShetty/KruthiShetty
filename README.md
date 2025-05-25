@@ -10,6 +10,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/kruthi-s-9787512a1/)
 [![Email](https://img.shields.io/badge/-Email-%23D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kruthi96shetty@email.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-%2312100E?style=flat-square&logo=github&logoColor=white)](https://github.com/KruthiShetty)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://kruthishetty-portfolio.my.canva.site/)
 
 ---
 
